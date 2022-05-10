@@ -1,0 +1,13 @@
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 20rem;
+  background-color: red;
+  border-radius: 1rem;
+}
+
+.card__image {
+  width: 8rem;
+}
